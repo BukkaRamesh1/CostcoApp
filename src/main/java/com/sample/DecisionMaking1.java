@@ -22,6 +22,7 @@ public class DecisionMaking1 {
 					else c=c+1;
 		}
 		System.out.println("\n");
+		//added comment
 		result[0]=v;
 		result[1]=c;
 		result[2]=s;
